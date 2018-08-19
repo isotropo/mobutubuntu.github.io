@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Purpose
 ---
 
 ### I'm going to start writing out my goals and ideas for this website, On this website.
