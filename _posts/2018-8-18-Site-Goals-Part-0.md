@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Site Goals (Part-0)
 ---
 
 ### I'm going to start writing out my goals and ideas for this website, On this website.
