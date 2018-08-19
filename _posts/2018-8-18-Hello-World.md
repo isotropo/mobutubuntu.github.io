@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: Hello-World
 
 ## Let's see if this updates properly...
 
