@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Nikolaos Stroubos and I'm an ECE student at California State University - Northridge!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm a Greek-American and I speak four languages - English, German, Greek, and Russian.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[nikoumwelt@gmail.com](mailto:nikoumwelt@gmail.com)
