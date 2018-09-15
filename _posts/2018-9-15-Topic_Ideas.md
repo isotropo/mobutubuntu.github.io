@@ -17,6 +17,6 @@
     -   Once I get a little farther along in my math I'll probably do more on cryptocurrency. I'd love to be able to do technical whitepaper analyses.
     -   Can talk about different corners of the crypto world like FileCoin and Steemit.
 *   Blogging/Social Media
-    -   I'm a huge nerd and I love custom meta-tools. I'd love to write about ways that you could easily publish writeups to multiple websites/social media platforms in an automated fashion from a low-level tool or a terminal application.
+    -   I'm a huge nerd and I love custom meta-tools. I'd love to write about ways that you could easily publish writeups to multiple websites/social media platforms in an automated fashion from a low-level tool or a terminal application. For example, I write these blog posts in VS Code and then publish them to github, which causes them to populate on the website. I do this using a tool called [Github Pages](https://pages.github.com/).
 
 
