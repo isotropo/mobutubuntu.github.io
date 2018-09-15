@@ -9,6 +9,13 @@
 *   Robotics
     -   I think it would be cool to do research reports on different robotics companies like Sarcos Robotics, Boston Dynamics, etc.
     -   I could also cover more mechatronics-oriented companies like Beckman Coulter.
+*   Embedded Device Profiles
+    -   ESP32
+    -   Udoo-x86
+    -   Jetson
+    -   Red Pitaya
+    -   FPGAs
+        +   Mojo
 *   Quantum computing
     -   I know literally nothing about quantum computing but I could just link to interesting news articles I found.
 *   Advanced Robotics
