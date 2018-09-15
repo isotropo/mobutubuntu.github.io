@@ -1,4 +1,10 @@
 ---
 layout: post
-title: Site Goals (Part-0)
+title: Page Ideas
 ---
+
+Just a list of all my ideas for pages:
+
+*   Ranger tutorial series
+*   svgwrite dailyNotes
+*   Meme archives
