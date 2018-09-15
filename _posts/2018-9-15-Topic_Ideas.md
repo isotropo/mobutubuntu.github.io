@@ -10,6 +10,7 @@
     -   I think it would be cool to do research reports on different robotics companies like Sarcos Robotics, Boston Dynamics, etc.
     -   I could also cover more mechatronics-oriented companies like Beckman Coulter.
 *   Embedded Device Profiles
+    -   Raspberry Pi vs derivatives like Banana Pi
     -   ESP32
     -   Udoo-x86
     -   Jetson
