@@ -9,6 +9,10 @@
 *   Robotics
     -   I think it would be cool to do research reports on different robotics companies like Sarcos Robotics, Boston Dynamics, etc.
     -   I could also cover more mechatronics-oriented companies like Beckman Coulter.
+*   VEX News
+    -   Research on changes made to VEX hardware
+    -   Summaries of the delineations between different VEX organizations.
+    -   Documentation on tendencies/design decisions of formidable teams (I may only post this sort of documentation on slack and not host it on my blog, or have it password protected on my blog).
 *   Embedded Device Profiles
     -   Raspberry Pi vs derivatives like Banana Pi
     -   ESP32
