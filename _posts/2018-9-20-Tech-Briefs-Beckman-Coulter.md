@@ -12,6 +12,14 @@ Beckman Couler is, in my opinion, one of the most interesting biotech-automation
 [Beckman Coulter AutoMate 2500](https://www.beckmancoulter.com/en/products/automation/automate-2500-family-sample-processing-systems#/specifications)
 
 *   [Video of the Machine in Action](https://www.youtube.com/watch?v=QYVHRt4Qwiw)
+*   Documentation:
+    *   [https://www.beckmancoulter.com/download/file/wsr-211873/B85841D?type=pdf](https://www.beckmancoulter.com/download/file/wsr-211873/B85841D?type=pdf)
+    *   [https://www.beckmancoulter.com/download/file/wsr-237962/B67471A?type=pdf](https://www.beckmancoulter.com/download/file/wsr-237962/B67471A?type=pdf)
+
+
+[Beckman Coulter Biomek 3000](https://www.ssllc.com/images/uploads/Biomek%203000%20User%20Manual.pdf)
+
+*   [Video of the Machine in Action](https://www.youtube.com/watch?v=WHtmVXW-mTs)
 
 
 
@@ -28,3 +36,4 @@ In this section I want to document what sorts of skillsets a company like Beckma
 
 *   [https://labiotech.eu/features/automation-biotech-review/](https://labiotech.eu/features/automation-biotech-review/)
 *   [opentrons](https://opentrons.com/)
+*   [Rockwell Automation](https://www.rockwellautomation.com/en_NA/industries/life-sciences/overview.page?pagetitle=Biotechnology-Manufacturing-Automation-and-Control-Systems&docid=813b422f66696c7b6917b67f98dddf78)
