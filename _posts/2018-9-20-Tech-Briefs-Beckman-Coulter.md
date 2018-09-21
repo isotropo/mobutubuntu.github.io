@@ -1,6 +1,8 @@
 ## Beckman Coulter Medical Automation
 
-Beckman Couler is, in my opinion, one of the most interesting biotech-automation companies in existence. They [label](https://en.wikipedia.org/wiki/Beckman_Coulter) themselves as a company that makes "biomedical laboratory instruments". The company was founded by Caltech professor [Arnold O. Beckman](https://en.wikipedia.org/wiki/Arnold_Orville_Beckman) in ~1934.
+Beckman Couler is, in my opinion, one of the most interesting established biotech-automation companies in existence. They [label](https://en.wikipedia.org/wiki/Beckman_Coulter) themselves as a company that makes "biomedical laboratory instruments". The company was founded by Caltech professor [Arnold O. Beckman](https://en.wikipedia.org/wiki/Arnold_Orville_Beckman) in ~1934.
+
+Because anything heavily heavily regulated by the FDA naturally has a slower rate of technological progression, there's a lot of opportunity to appy advancements in robotics to biotechnology. Imagine when automated chemical analysis devices begin to move as fast as a [Boston Dynamics Robot]()
 
 
 
