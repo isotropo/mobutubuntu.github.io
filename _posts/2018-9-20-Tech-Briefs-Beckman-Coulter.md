@@ -32,6 +32,17 @@ Beckman Couler is, in my opinion, one of the most interesting biotech-automation
 
 In this section I want to document what sorts of skillsets a company like Beckman Coulter seems to be looking for.
 
+*   [This](https://danaher.taleo.net/careersection/external/jobdetail.ftl?job=BEC009546&lang=en) is actually the only intern posting I was able to find for the entire state of California, which is hilarious and unfortunate. Might be good for Pablo, who knows...
+
+
+#### Random Beckman Coulter -- Related Links
+
+*   [Liquid Particle Counters](https://www.beckman.com/liquid-particle-counters)
+    -   These devices are produced by Beckman Coulter for the [Aerospace Industry](https://www.beckman.com/resources/industries/aerospace).
+
+
+
+
 #### Other interesting automation companies in biotech/biomed:
 
 *   [https://labiotech.eu/features/automation-biotech-review/](https://labiotech.eu/features/automation-biotech-review/)
