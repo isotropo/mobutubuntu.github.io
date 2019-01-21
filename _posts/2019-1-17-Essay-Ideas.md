@@ -5,8 +5,8 @@ Essay Ideas:
 *   Detailed essay on why I think I should pursue a math major and DO engineering rather than pursuing an EE major.
 *   Essay on/exploration of all the facets of Si trickster.
 *   Essay on how to overcome/live with Si trickster.
-*   Essay on the differences between ENTJ/INTP vs INTJ/ENTP.
-*   Essay synthesizing an ENTJ's relation with empathy.
+*   Essay on the differences between the strengths of ENTJ/INTP vs INTJ/ENTP (Movement vs Control).
+*   Essay synthesizing an ENTJ's relationship with empathy.
 *   Essay on the tribal nature of the ENTJ
 *   Essay on how Julius Caesar gained power and what he could have done to prevent the circumstances leading up to his murder.
 *   **Essay on how machine learning allows a company to dominate its market.**
