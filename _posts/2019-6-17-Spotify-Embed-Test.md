@@ -1,5 +1,1 @@
-layout: post
-title: Your Title Here
-spotifyplaylist: your playlist ID
-
-{% include spotifyplaylist.html id=page.spotifyplaylist %}
+<iframe src="https://open.spotify.com/embed/user/127609811/playlist/48f37gBzqnvEZ3xEnana2M" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
