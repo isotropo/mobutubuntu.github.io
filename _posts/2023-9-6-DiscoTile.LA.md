@@ -1,5 +1,3 @@
-# Discotile.LA
-
 ## "Revolutionizing Fashion: The Eco-Friendly Elegance of 3D Printed Tile Clothing"
 
 In an era where sustainability and innovation converge, a groundbreaking fashion brand has emerged, redefining the boundaries of style and environmental consciousness. This avant-garde brand, which weaves together fashion, technology, and sustainability, showcases an exquisite line of clothing made from 3D printed tiles, connected with jump rings, and embellished with dazzling disco tiles, glass beads, and striking pendants. Welcome to the future of fashion, where elegance meets eco-friendliness.
