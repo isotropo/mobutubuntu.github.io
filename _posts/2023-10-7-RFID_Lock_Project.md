@@ -2,6 +2,8 @@ Created by Jeremy Brown and Nikolaos Stroubos
 
 This repository is a hacky proof of concept using MQTT to publish and read messages and cross reference a whitelist to either approve or reject a rfid card swipe. The idea is there is 1 to n devices connected to a reader or readers, and there is one central device that stores the list of approved users. It's a pretty basic implementation but I intend to do a more advanced/professional version of it as I learn and develop my skills!
 
+Here's a link to [the repository](https://github.com/isotropo/rfid_lock)
+
 ### Python Modules Used:
 paho.mqtt.client as mqtt
 mfrc522
